@@ -1,4 +1,4 @@
-# Instagram 
+# Doctor 
 Created a simple application using Spring Initializer With required depencdencies that manages Doctors And Patients of an Organisation i.e., An User can perform some operation such as sign-In, sign-Up, update,add Doctor and get All Patients etc.
 
 ## Frame Work And Language
